@@ -4,11 +4,17 @@
 
 
 
-## 1. 개발 환경
+## 0. 개발 환경
 
 Django 3.1.3
 
 vue/cli 4.5.8
+
+
+
+## 1. 팀원 정보
+
+- 팀원 : [신상훈](https://github.com/sw0817), [이형창](https://github.com/brotherspear1994)
 
 
 
@@ -1156,6 +1162,7 @@ user정보를 응답으로 받아도 password는 알 수 없도록 password에 `
     특정 영화를 좋아요 한 유저들의 id 값을 받아오는 like_movie_users 함수이다. 이 함수로 얻은 값을 users_info 로 보내주어, 그 유저들이 좋아요를 누른 영화 id 값을 얻을 수 있다.
 
   
+
 
 
 
